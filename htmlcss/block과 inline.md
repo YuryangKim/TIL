@@ -1,7 +1,7 @@
-# Bock element와 과 Inline element 구분
+# Block element와 과 Inline element 구분
 
-+강의 일시: 2021년 2월 23일
-+해당 주제: htmlcss
+*강의 일시: 2021년 2월 23일
+*해당 주제: htmlcss
 
 
 - 한 라인에 복수로 올 수 있나 없나로 구분 가능
